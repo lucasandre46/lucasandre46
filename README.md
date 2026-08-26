@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner - BETO" width="100%" />
+  <img src="./b7bb4b69-f398-4c0f-a0a4-66a255832313.png" alt="Banner - BETO" width="100%" />
 </div>
 
 <div align="center">
