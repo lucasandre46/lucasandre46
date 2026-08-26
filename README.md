@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./b7bb4b69-f398-4c0f-a0a4-66a255832313.png" alt="Banner - BETO" width="100%" />
+  <img src="./assets/banner.png" alt="Banner - BETO" width="100%" />
 </div>
 
 <div align="center">
@@ -50,11 +50,21 @@ Estudante de Sistemas de Informação e desenvolvedor full-stack em formação, 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**API_Nest**](https://github.com/lucasandre46/API_Nest) | API REST desenvolvida com NestJS | TypeScript |
-| [**API_Tarefas**](https://github.com/lucasandre46/API_Tarefas) | API para gerenciamento de tarefas | TypeScript |
-| [**api_relatos_aleatorios**](https://github.com/lucasandre46/api_relatos_aleatorios) | API de relatos aleatórios | TypeScript |
-| [**portfolio_react**](https://github.com/lucasandre46/portfolio_react) | Portfólio pessoal construído em React | CSS / React |
-| [**portfolio_lucas_**](https://github.com/lucasandre46/portfolio_lucas_) | Versão do meu portfólio pessoal | JavaScript |
+| [**encontre_saude**](https://github.com/senac-pr-fb/encontre_saude) | Projeto de sistema de saúde construido em equipe (Senac), com autenticação e backend via Supabase | JavaScript |
+| [**popular_da_copa**](https://github.com/lucasandre46/popular_da_copa) | App mobile com temática da copa do mundo 2026 (Expo/React Native) com autenticação Firebase e SQLite | TypeScript |
+| [**bto_api**](https://github.com/lucasandre46/bto_api) | Backend/API (NestJS) do projeto BTO, com autenticação segura | TypeScript |
+| [**bto_coins**](https://github.com/lucasandre46/bto_coins) | Frontend (React + Vite) do projeto BTO corretora de ações e criptomoedas, com autenticação via Supabase | JavaScript |
+| [**api_relatos_aleatorios**](https://github.com/lucasandre46/api_relatos_aleatorios) | API REST do sistema de relatos aleatórios | TypeScript |
+| [**Front_Relatos_Aleatorios**](https://github.com/lucasandre46/Front_Relatos_Aleatorios) | Frontend (React + Vite) do sistema de relatos aleatórios | JavaScript |
+
+<br>
+
+## 🔮 Projetos futuros
+
+| Ideia | Descrição | Status |
+|---|---|---|
+| BTO Coins versão mobile | Aplicativo Expo + NestJS + Prisma| Planejado |
+| Portfólio 2.0 | Nova versão do portfólio pessoal, com Next.js | Planejado |
 
 <br>
 
@@ -63,15 +73,6 @@ Estudante de Sistemas de Informação e desenvolvedor full-stack em formação, 
 - 🚀 Inovathon Sudovalley 2026
 - 🧠 Olimpíadas Brasileiras de Tecnologia (OBT)
 - 💡 Maratona de Ideação da Via Tecnológica do Leite
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasandre46&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub de Lucas André Miguel" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandre46&layout=compact&hide_border=true" alt="Linguagens mais usadas por Lucas André Miguel" />
-</div>
 
 <br>
 
