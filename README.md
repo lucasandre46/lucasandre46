@@ -63,7 +63,7 @@ Estudante de Sistemas de Informação e desenvolvedor full-stack em formação, 
 
 | Ideia | Descrição | Status |
 |---|---|---|
-| BTO Coins versão mobile | Ferramentas: Expo + NestJS + Prisma | Desing (Figma): https://www.figma.com/design/kkunVS4d02G9ciTTQZP3RB/Beto?node-id=0-1&t=0iftUjI6TAxV18Re-1| Planejado |
+| BTO Coins versão mobile | Ferramentas: Expo + NestJS + Prisma, Desing (Figma): https://www.figma.com/design/kkunVS4d02G9ciTTQZP3RB/Beto?node-id=0-1&t=0iftUjI6TAxV18Re-1 | Planejado |
 | Portfólio 2.0 | Nova versão do portfólio pessoal, com Next.js | Planejado |
 
 <br>
