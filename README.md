@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner - BETO" width="100%" />
+  <img src="./b7bb4b69-f398-4c0f-a0a4-66a255832313.png" alt="Banner - BETO" width="100%" />
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@ Estudante de Sistemas de Informação e desenvolvedor full-stack em formação, 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**encontre_saude**](https://github.com/senac-pr-fb/encontre_saude) | Projeto de sistema de saúde construido em equipe (Senac), com autenticação e backend via Supabase | JavaScript |
-| [**popular_da_copa**](https://github.com/lucasandre46/popular_da_copa) | App mobile com temática da copa do mundo 2026 (Expo/React Native) com autenticação Firebase e SQLite | TypeScript |
+| [**popular_da_copa**](https://github.com/lucasandre46/popular_da_copa) | App mobile com temática da copa do mundo 2026 (Expo/React Native) com autenticação Firebase e SQLite, seguindo desing feito no Figma(https://www.figma.com/design/kkunVS4d02G9ciTTQZP3RB/Beto?node-id=319-731&t=0iftUjI6TAxV18Re-1) | TypeScript |
 | [**bto_api**](https://github.com/lucasandre46/bto_api) | Backend/API (NestJS) do projeto BTO, com autenticação segura | TypeScript |
 | [**bto_coins**](https://github.com/lucasandre46/bto_coins) | Frontend (React + Vite) do projeto BTO corretora de ações e criptomoedas, com autenticação via Supabase | JavaScript |
 | [**api_relatos_aleatorios**](https://github.com/lucasandre46/api_relatos_aleatorios) | API REST do sistema de relatos aleatórios | TypeScript |
@@ -63,7 +63,7 @@ Estudante de Sistemas de Informação e desenvolvedor full-stack em formação, 
 
 | Ideia | Descrição | Status |
 |---|---|---|
-| BTO Coins versão mobile | Aplicativo Expo + NestJS + Prisma| Planejado |
+| BTO Coins versão mobile | Ferramentas: Expo + NestJS + Prisma | Desing (Figma): https://www.figma.com/design/kkunVS4d02G9ciTTQZP3RB/Beto?node-id=0-1&t=0iftUjI6TAxV18Re-1| Planejado |
 | Portfólio 2.0 | Nova versão do portfólio pessoal, com Next.js | Planejado |
 
 <br>
